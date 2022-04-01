@@ -1,0 +1,12 @@
+<div class="row">
+              <?php if($this->session->flashdata("user_registered")): ?>
+                <div class="col-md-12">
+                  <?php echo "<div class='alert alert-success'>".$this->session->flashdata("user_registered")."</div>";?>
+                </div>
+              <?php endif; ?>
+              <?php if($this->session->flashdata("user_loggedin_success")): ?>
+                <div class="col-md-12">
+                  <?php echo "<div class='alert alert-success'>".$this->session->flashdata("user_loggedin_success")."</div>";?>
+                </div>
+              <?php endif; ?>
+            </div>

@@ -1,0 +1,772 @@
+A PHP Error was encountered
+Severity: Notice
+Message: Undefined variable: config
+Filename: controllers/Supervisor.php
+Line Number: 83
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 83
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+OKVC CLASS :: SUPERVISOR - STUDENTS
+HOME
+IT STUDENTS
+ATTENDANCE
+CERTIFICATE
+LOGOUT
+Looking for...?
+
+Search by ID, name, email, phone or department
+
+S/NO 	FIRST NAME 	MIDDLE NAME 	LAST NAME 	EMAIL	DEPARTMENT	START DATE - END DATE	SUPERVISOR EMAIL
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'id' of non-object
+Filename: supervisor/students.php
+Line Number: 126
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 126
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'firstname' of non-object
+Filename: supervisor/students.php
+Line Number: 127
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 127
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'middlename' of non-object
+Filename: supervisor/students.php
+Line Number: 128
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 128
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'lastname' of non-object
+Filename: supervisor/students.php
+Line Number: 129
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 129
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'email' of non-object
+Filename: supervisor/students.php
+Line Number: 130
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 130
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'deparment' of non-object
+Filename: supervisor/students.php
+Line Number: 131
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 131
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+08/07/2019 - 31/12/2019	
+A PHP Error was encountered
+Severity: Notice
+Message: Trying to get property 'supervisor_email' of non-object
+Filename: supervisor/students.php
+Line Number: 134
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\students.php
+Line: 134
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 124
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+Nil

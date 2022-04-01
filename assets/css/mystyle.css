@@ -1,0 +1,98 @@
+body {
+  background-image: url("../img/hd-wallpaper-green_2426027.jpg");
+  /* background: url(../template_assets/images/bg-01.jpg); */
+  background-size: cover;
+}
+
+#second-section-row img {
+  background-image: url("../img/staffs_passports/profile-pic.jpg");
+  background-size: cover;
+  /*width: 100px !important;
+  height: 200px !important;*/
+}
+
+.must-fill-field {
+  color: red;
+}
+
+/*#learn {
+  color: rgb(10, 85, 197)
+}*/
+
+/* Tooltip container */
+.my-tooltip {
+  position: relative;
+  display: inline-block;
+  /*border-bottom: 1px dotted black;*/ /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.my-tooltip .my-tooltiptext {
+  visibility: hidden;
+  /*display: none;*/
+  width: 300px;
+  background-color: black;
+  color: #fff;
+  /*text-align: center;*/
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+
+  top: 100%;
+  left: 50%;
+  margin-left: -150px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.my-tooltip:hover .my-tooltiptext {
+  visibility: visible;
+  /*display: block;*/
+}
+
+.my-tooltip .my-tooltiptext::after {
+  content: " ";
+  position: absolute;
+  bottom: 100%;  /* At the top of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
+.key-info-div {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 0.9em;
+}
+
+::placeholder { /* Firefox, Chrome, Opera */ 
+  color: rgb(202, 202, 202) !important;
+} 
+  
+:-ms-input-placeholder { /* Internet Explorer 10-11 */ 
+  color: rgb(202, 202, 202) !important;
+} 
+  
+::-ms-input-placeholder { /* Microsoft Edge */ 
+  color: rgb(202, 202, 202) !important;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: rgb(202, 202, 202) !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: rgb(202, 202, 202) !important;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: rgb(202, 202, 202) !important;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgb(202, 202, 202) !important;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: rgb(202, 202, 202) !important;
+}

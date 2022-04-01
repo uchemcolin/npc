@@ -1,0 +1,63 @@
+A PHP Error was encountered
+Severity: Notice
+Message: Undefined variable: orderBy_field
+Filename: models/User_model.php
+Line Number: 306
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\models\User_model.php
+Line: 306
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 108
+Function: getAllProfilesForSupervisors
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Undefined variable: orderBy_order
+Filename: models/User_model.php
+Line Number: 306
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\models\User_model.php
+Line: 306
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 108
+Function: getAllProfilesForSupervisors
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+A PHP Error was encountered
+Severity: Notice
+Message: Undefined variable: supervisor
+Filename: controllers/Supervisor.php
+Line Number: 112
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 112
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once
+OKVC CLASS :: SUPERVISOR - STUDENTS
+HOME
+IT STUDENTS
+ATTENDANCE
+CERTIFICATE
+LOGOUT
+A PHP Error was encountered
+Severity: Warning
+Message: Invalid argument supplied for foreach()
+Filename: supervisor/index.php
+Line Number: 1
+Backtrace:
+File: C:\xampp\htdocs\mysites\attendance\application\views\supervisor\index.php
+Line: 1
+Function: _error_handler
+File: C:\xampp\htdocs\mysites\attendance\application\controllers\Supervisor.php
+Line: 118
+Function: view
+File: C:\xampp\htdocs\mysites\attendance\index.php
+Line: 315
+Function: require_once

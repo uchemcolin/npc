@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS states (
+    id INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    created_at DATE NOT NULL,
+    PRIMARY KEY(id)
+);

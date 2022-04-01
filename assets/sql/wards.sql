@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS wards (
+    id INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    lga_id INT NOT NULL,
+    created_at DATE NOT NULL,
+    PRIMARY KEY(id)
+);
